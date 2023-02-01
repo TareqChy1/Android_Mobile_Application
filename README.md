@@ -19,7 +19,7 @@ Using [Android Studio](https://developer.android.com/studio), anyone can build a
 #### Application Icon Logo:
 <img src="Photo/Faicorp_logo_0.jpeg"  width="250" height="550"/>
 
-#### Light Version:
+#### Light Theme:
 <img src="Photo/Light_1.jpg"  width="250" height="450"/>
 <img src="Photo/Light_2.jpg"  width="250" height="450"/>
 <img src="Photo/Light_3.jpg"  width="250" height="450"/>
@@ -30,7 +30,7 @@ Using [Android Studio](https://developer.android.com/studio), anyone can build a
 <img src="Photo/Light_7.jpg"  width="250" height="450"/>
 <img src="Photo/Light_8.jpg"  width="250" height="450"/>
 
-#### Dark Version:
+#### Dark Theme:
 <img src="Photo/Dark_1.jpg"  width="250" height="450"/>
 <img src="Photo/Dark_2.jpg"  width="250" height="450"/>
 <img src="Photo/Dark_3.jpg"  width="250" height="450"/>
